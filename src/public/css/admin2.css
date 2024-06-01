@@ -1,0 +1,135 @@
+.pagination {
+    text-align: right;
+}
+
+.pagination li {
+    display: inline-block;
+}
+
+.logout__button {
+    border: 1px solid #D9C6B5;
+    background: #F0F0F099;
+    width: 100px;
+    height: 34px;
+    text-align: center;
+    line-height: 34px;
+    color: #D9C6B5;
+    position: absolute;
+    right: 0;
+    margin-right: 50px;
+    font-size: 20px;
+}
+
+.admin__content {
+    margin: 0 auto;
+    padding: 50px 15px;
+    max-width: 1230px;
+}
+
+.admin__heading {
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 35px;
+}
+
+.search-form {
+    margin: 0 auto;
+    width: 90%;
+    text-align: center;
+}
+
+.search-form__item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.search-form__item-input {
+    padding: 10px;
+    width: 330px;
+    height: 50px;
+    border: 1px solid #E3DED9;
+    background: #FBFBFB;
+    color: #BEB1A6;
+    appearance: none;
+    font-size: 16px;
+}
+
+.search-form__item-select {
+    padding: 10px;
+    height: 50px;
+    border: 1px solid #E3DED9;
+    background: #F4F4F4;
+    color: #8B7969;
+    font-size: 17px;
+}
+
+.search-form__button-submit {
+    padding: 10px;
+    width: 103px;
+    height: 50px;
+    border: 1px solid #8B7969;
+    background: #82756A;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.search-form__button-reset {
+    padding: 10px;
+    width: 103px;
+    height: 50px;
+    border: 1px solid #D9C6B5;
+    background: #D9C6B5;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.contact-table {
+    margin: 30px auto;
+    width: 90%;
+    text-align: left;
+}
+
+.contact-table__inner {
+    width: 100%;
+    font-size: 20px;
+}
+
+.contact-table__row:first-of-type {
+    background: #8B7969;
+    color: #FFFFFF;
+}
+
+.contact-table__row {
+    border: 1px solid #E0DFDE;
+}
+
+.contact-table__header {
+    padding: 12px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.contact-table__text {
+    padding: 12px;
+    line-height: 30px;
+}
+
+.contact-table__button {
+    background: #F4F4F44D;
+    border: 1px solid #D9C6B599;
+    padding: 8px 20px;
+    width: 80px;
+    height: 39px;
+    color: #D9C6B5;
+    font-size: 18px;
+}
+
+.todo-table__item:first-of-type {
+    padding: 12px;
+    width: 90%;
+}
+
+
+
